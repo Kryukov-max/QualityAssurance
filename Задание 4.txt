@@ -1,0 +1,7 @@
+4. Just do it:
+Unix command-line basics
+1.Регистрация на https://www.codecademy.com/
+2.Catalog > Language Skills > Learn the Command Line
+3.Пройти курс по основам работы в Unix-системах
+https://www.codecademy.com/learn/learn-the-command-line
+Оценка 8р.
